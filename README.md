@@ -12,7 +12,7 @@ This repository contains five beginner-friendly Python CLI (Command Line Interfa
 Each project focuses on different fundamental Python concepts to help beginners practice and learn effectively.
 1. Calculator
 
-[x]Topics Used:
+[x] Topics Used:
 - Functions
 - Input/output (input(), print())
 - Conditional statements (if-elif-else)
