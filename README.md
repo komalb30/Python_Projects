@@ -52,7 +52,7 @@ Topics Used:
 - Variables and simple operations
 - Input/output
 
-#🚀 Ideal For:
+# 🚀 Ideal For:
 - Python beginners
 - Practice with basic programming concepts
 - Learning to build small, functional CLI tools
