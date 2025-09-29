@@ -19,7 +19,7 @@ Each project focuses on different fundamental Python concepts to help beginners 
 - Type conversion (float())
 
 ## 2. Currency Converter
-#### Topics Used:
+*Topics Used:*
 - Dictionaries
 - String methods (upper())
 - Input/output
@@ -28,7 +28,7 @@ Each project focuses on different fundamental Python concepts to help beginners 
 - Arithmetic operations
 
 ## 3. Password Generator
-#### Topics Used:
+*Topics Used:*
 - Modules and Libraries (random, string)
 - Functions
 - String Manipulation
@@ -38,7 +38,7 @@ Each project focuses on different fundamental Python concepts to help beginners 
 - Main Guard (if __name__ == "__main__":)
 
 ## 4 . To-Do List
-#### Topics Used:
+*Topics Used:*
 - Lists
 - Loops (while, for)
 - Conditional statements
@@ -46,7 +46,7 @@ Each project focuses on different fundamental Python concepts to help beginners 
 - enumerate() function 
 
 ## 5. Word Counter
-#### Topics Used:
+*Topics Used:*
 - Strings
 - String methods (split())
 - Variables and simple operations
