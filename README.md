@@ -18,8 +18,8 @@ Each project focuses on different fundamental Python concepts to help beginners 
 - Exception handling (try-except)
 - Type conversion (float())
 
-2. Currency Converter
-Topics Used:
+#### 2. Currency Converter
+###### Topics Used:
 - Dictionaries
 - String methods (upper())
 - Input/output
@@ -27,8 +27,8 @@ Topics Used:
 - Exception handling
 - Arithmetic operations
 
-3. Password Generator
-Topics Used:
+#### 3. Password Generator
+###### Topics Used:
 - Modules and Libraries (random, string)
 - Functions
 - String Manipulation
@@ -37,16 +37,16 @@ Topics Used:
 - Conditionals and Error Handling
 - Main Guard (if __name__ == "__main__":)
 
-4 . To-Do List
-Topics Used:
+#### 4 . To-Do List
+###### Topics Used:
 - Lists
 - Loops (while, for)
 - Conditional statements
 - Input/output
 - enumerate() function 
 
-5. Word Counter
-Topics Used:
+#### 5. Word Counter
+###### Topics Used:
 - Strings
 - String methods (split())
 - Variables and simple operations
